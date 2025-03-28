@@ -1,0 +1,28 @@
+D:\Learning\Practice of 6 language\C#\Q3\obj\Debug\net8.0\Q3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Practice of 6 language\C#\Q3\obj\Debug\net8.0\Q3.AssemblyInfoInputs.cache
+D:\Learning\Practice of 6 language\C#\Q3\obj\Debug\net8.0\Q3.AssemblyInfo.cs
+D:\Learning\Practice of 6 language\C#\Q3\obj\Debug\net8.0\Q3.csproj.CoreCompileInputs.cache
+D:\Learning\Practice of 6 language\C#\Q3\bin\Debug\net8.0\Q3.exe
+D:\Learning\Practice of 6 language\C#\Q3\bin\Debug\net8.0\Q3.deps.json
+D:\Learning\Practice of 6 language\C#\Q3\bin\Debug\net8.0\Q3.runtimeconfig.json
+D:\Learning\Practice of 6 language\C#\Q3\bin\Debug\net8.0\Q3.dll
+D:\Learning\Practice of 6 language\C#\Q3\bin\Debug\net8.0\Q3.pdb
+D:\Learning\Practice of 6 language\C#\Q3\obj\Debug\net8.0\Q3.dll
+D:\Learning\Practice of 6 language\C#\Q3\obj\Debug\net8.0\refint\Q3.dll
+D:\Learning\Practice of 6 language\C#\Q3\obj\Debug\net8.0\Q3.pdb
+D:\Learning\Practice of 6 language\C#\Q3\obj\Debug\net8.0\Q3.genruntimeconfig.cache
+D:\Learning\Practice of 6 language\C#\Q3\obj\Debug\net8.0\ref\Q3.dll
+D:\Learning\Six-Language\C#\Q12\obj\Debug\net8.0\Q3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Six-Language\C#\Q12\obj\Debug\net8.0\Q3.AssemblyInfoInputs.cache
+D:\Learning\Six-Language\C#\Q12\obj\Debug\net8.0\Q3.AssemblyInfo.cs
+D:\Learning\Six-Language\C#\Q12\obj\Debug\net8.0\Q3.csproj.CoreCompileInputs.cache
+D:\Learning\Six-Language\C#\Q12\obj\Debug\net8.0\Q3.dll
+D:\Learning\Six-Language\C#\Q12\obj\Debug\net8.0\refint\Q3.dll
+D:\Learning\Six-Language\C#\Q12\obj\Debug\net8.0\Q3.pdb
+D:\Learning\Six-Language\C#\Q12\bin\Debug\net8.0\Q3.exe
+D:\Learning\Six-Language\C#\Q12\bin\Debug\net8.0\Q3.deps.json
+D:\Learning\Six-Language\C#\Q12\bin\Debug\net8.0\Q3.runtimeconfig.json
+D:\Learning\Six-Language\C#\Q12\bin\Debug\net8.0\Q3.dll
+D:\Learning\Six-Language\C#\Q12\bin\Debug\net8.0\Q3.pdb
+D:\Learning\Six-Language\C#\Q12\obj\Debug\net8.0\Q3.genruntimeconfig.cache
+D:\Learning\Six-Language\C#\Q12\obj\Debug\net8.0\ref\Q3.dll
